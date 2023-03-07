@@ -1,0 +1,23 @@
+{
+    "rock":{
+    "name": "Valeria Almeida",
+    "album": "Silent",
+    "style": "'COVER' de Selena Gomez",
+    "price": "R$ 59,90",
+    "image": "<img src='imagens/valeria.png' width='100px'>"
+    },
+    "rap":{
+    "name1": "Racionais MC's",
+    "album1": "Nada como um Dia após o Outro Dia",
+    "style1": "RAP",
+    "price1": "R$ 98,70",
+    "image1": "<img src='imagens/racionais.jpg' width='100px'>"
+    },
+    "trap":{
+    "name2": "Orochi",
+    "album2": "Celebridade",
+    "style2": "TRAP",
+    "price2": "R$ 10,00",
+    "image2": "<img src='imagens/orochi.jpg' width='100px'>"
+    }
+}
